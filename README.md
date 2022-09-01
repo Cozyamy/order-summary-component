@@ -15,12 +15,16 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
+![desktop_view](https://user-images.githubusercontent.com/75266766/188030546-caf113a4-4952-4b7b-b31e-fd8087146664.PNG)
+
+
+![mobile_view](https://user-images.githubusercontent.com/75266766/188030567-9bd66bd7-5f33-4eb6-a7fb-b07397814331.PNG)
 
 ### Links
 
-- Solution URL: [visit](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-using-flexbox-D04XO3xA2Z)
+- Solution URL: [visit]( https://www.frontendmentor.io/solutions/responsive-ordersummarycomponent-with-html-and-css-tYy1t0meYQ)
 
-- Live Site URL: [visit](https://cozyamy.github.io/product-preview-card-component/)
+- Live Site URL: [visit](https://cozyamy.github.io/order-summary-component/)
 
 ## My process
 
